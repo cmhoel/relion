@@ -30,7 +30,7 @@ the appropriate package manager (e.g. yum).
 Once git and cmake are installed, relion can be easily installed through:
 
 ```
-git clone https://github.com/3dem/relion.git
+git clone https://github.com/cmhoel/relion.git
 cd relion
 git checkout master
 mkdir build
